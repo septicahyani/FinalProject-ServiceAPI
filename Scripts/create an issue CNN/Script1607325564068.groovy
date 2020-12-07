@@ -22,3 +22,5 @@ WS.sendRequest(findTestObject('Get CNN-RandomNews issue by key'))
 
 WS.sendRequest(findTestObject('Get CNN-SearchNews issue by key'))
 
+WS.sendRequest(findTestObject('Get CNN-Hiburan issue by key'))
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Get an issue by key</name>
+   <name>Get COVID-Indonesia issue by key</name>
    <tag></tag>
    <elementGuidId>b605812f-7415-472b-b3f6-7690e520d969</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
